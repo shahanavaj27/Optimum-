@@ -1,0 +1,6 @@
+{
+  "name": "Optimum Hill Climb",
+  "description": "An exciting 2D physics-based hill climbing racing game featuring Muscat driving the black and white Optimum off-road jeep, collecting silver Optimum infinity coins and fuel cans across challenging rolling hills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
